@@ -42,8 +42,9 @@ JeuxDeCartes/
 │   ├── tapis.jpg
 │   └── tapis.png
 └── README.md
+```
 
-## Comment lancer le projet
+## Structure du projet
 1. Ouvrir JeuxDeCartes.pro avec Qt Creator
 2. Configurer le kit Qt si nécessaire
 3. Compiler le projet
